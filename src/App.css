@@ -8,6 +8,18 @@ body, .app {
   background: #FEEBCF;
 }
 
+
+a:link, a:visited {
+  color: #F35366;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover, a:active {
+  color: rgba(255, 100, 118, 0.55);
+}
+
 /* main page */
 
 .list-books-title {
